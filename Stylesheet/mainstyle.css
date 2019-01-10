@@ -26,9 +26,9 @@ body{margin:0;
 }
 .first-text{
     position: absolute;
-    top: 110%;
-    left: 50%;
-    right: 0;
+    top: 105%;
+    left: 49.5%;
+    right: 10%;
     font-size: 2.5vh;
     font-family: 'Share Tech Mono', sans-serif;
 }
