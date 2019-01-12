@@ -41,7 +41,7 @@ svg{
     background: rgba(0, 0, 0, 0);
     animation-name: fadein;
     animation-duration: 2s;
-    animation-delay: 2s;
+    animation-delay: 5s;
   }
 
   @keyframes fadein {
